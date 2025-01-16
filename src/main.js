@@ -155,6 +155,10 @@ const RazerProducts = {
         name: 'Razer Cobra Pro Wireless',
         transactionId: 0x1f
     },
+    0x00cd: {
+        name: 'Razer Basilisk V3 Pro 35K',
+        transactionId: 0x1f
+    },
 };
 
 function GetMessage(mouse) {
